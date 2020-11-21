@@ -1,5 +1,6 @@
 # gocat
-Gocat is a performant cat implementation in Golang.
+__Author__ - _Brandon Mandzik, 2020_ <br>
+_Gocat_ is a performant cat implementation in Golang.
 
 __Requieres__: go 1.13 AND darwin system
 
